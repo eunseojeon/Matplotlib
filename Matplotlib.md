@@ -1,7 +1,7 @@
 # 📝 Matplotlib 레포트 작성하기
 - [1. Matplotlib란?](#1-Matplotlib란)
-- [2. Matplotlib 코드베이스는 어디에 있나요?](#2-Matplotlib-코드베이스는-어디에-있나요?)
-- [3. Matplotlib을 colaba에서 직접 실습해보면서 공부하기](#3-Matplotlib을-colaba에서-직접-실습해보면서-공부하기)
+- [2. Matplotlib 코드베이스는 어디에 있나요?](#2-Matplotlib-코드베이스는-어디에-있나요)
+- [3. Matplotlib을 colab에서 직접 실습해보면서 공부하기](#3-Matplotlib을-colab에서-직접-실습해보면서-공부하기)
 
 ## 1. Matplotlib란?
 - Matplotlib은 시각화 유틸리티 역할을 하는 파이썬의 **저수준 그래프 플로팅 라이브러리**입니다.
@@ -13,4 +13,4 @@
 ## 2. Matplotlib 코드베이스는 어디에 있나요?
 - https://github.com/matplotlib/matplotlib
 
-## Matplotlib을 colaba에서 직접 실습해보면서 공부하기
+## 3. Matplotlib을 colab에서 직접 실습해보면서 공부하기
