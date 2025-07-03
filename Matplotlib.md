@@ -7,3 +7,5 @@
 
 ## 🤷🏻‍♀️ Matplotlib 코드베이스는 어디에 있나요?
 - https://github.com/matplotlib/matplotlib
+
+## Matplotlib을 colaba에서 직접 실습해보면서 공부하기
