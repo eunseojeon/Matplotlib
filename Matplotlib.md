@@ -3,3 +3,5 @@
 - Matplotlib은 John D. Hunter가 만들었습니다.
 - Matplotlib은 오픈 소스이므로 자유롭게 사용할 수 있습니다.
 - Matplotlib은 대부분 Python으로 작성되었으며, 일부 부분은 플랫폼 호환성을 위해 C, Objective-C 및 Javascript로 작성되었습니다.
+- ![image](https://github.com/user-attachments/assets/7f505fd0-2981-40fa-8691-b0b24f4497ce)
+
